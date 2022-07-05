@@ -1,0 +1,18 @@
+.editProfileSection {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left: 25%;
+  max-width: 50%;
+  gap: 20px;
+  margin-top: 10%;
+}
+
+.Input {
+  padding: 20px;
+  border-radius: 10px;
+}
+
+textarea {
+ resize: none;
+}
