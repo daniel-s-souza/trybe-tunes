@@ -19,9 +19,9 @@
 
 ## Como visualizar: 
 1. Clone o repositório
-  * git clone git@github.com:daniel-s-souza/projeto-Trybe-Tunes.git
+  * git clone git@github.com:daniel-s-souza/trybe-tunes.git
   * Entre na pasta do repositório que você acabou de clonar:
-    * cd projeto-Trybe-Tunes
+    * cd trybe-tunes
 1. Instale as dependências e inicialize o projeto
  * Instale as dependências:
    * npm install
