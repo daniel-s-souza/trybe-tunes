@@ -11,3 +11,5 @@
    * npm start 
 
 ## Possivel vizualizar pelo githubPages:
+
+ * https://daniel-s-souza.github.io/trybe-tunes/
