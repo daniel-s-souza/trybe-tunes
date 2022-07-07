@@ -9,3 +9,5 @@
    * npm install
  * Inicialize o projeto:
    * npm start 
+
+## Possivel vizualizar pelo githubPages:
